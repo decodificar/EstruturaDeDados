@@ -1,4 +1,4 @@
-# EstruturaDeDados
+# Estrutura de Dados
 
 <b>Objetivos:</b><br>
   - Estudar diferentes ED's e algoritmos associados. <br>
